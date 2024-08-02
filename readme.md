@@ -2,7 +2,7 @@
 
 ### Instruction
 - Download the Signal Scores and Drug Similarity Matrices from [here](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/padhi_3_buckeyemail_osu_edu/EsPkyFORsqNJgrxGmNZWYl0B0Qvmipgh-fCffpoCeRDT6w?e=1EsMaF).
-- Copy the downloaed Signal_Scores and Similarity_Matrices directory into the clone repository.
+- Copy the downloaed Signal_Scores and Similarity_Matrices directory into the cloned repository.
 
 ### Running example
 ```
