@@ -1,7 +1,7 @@
 # Using Multiple Drug Similarity Networks to Promote Adverse Drug Event Detection
 
 ### Instruction
-- Download the Signal Scores and Drug Similarity Matrices from [here](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/padhi_3_buckeyemail_osu_edu/EsPkyFORsqNJgrxGmNZWYl0B0Qvmipgh-fCffpoCeRDT6w?e=1EsMaF).
+- Download the Signal Scores and Drug Similarity Matrices from [here](https://zenodo.org/records/13270611).
 - Copy the downloaed Signal_Scores and Similarity_Matrices directory into the cloned repository.
 
 ### Running example
